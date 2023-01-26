@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://cryptobangladesh.netlify.app/'
 languageCode = 'en-us'
 title = 'Cryptobangladesh'
 theme = 'PaperMod'
